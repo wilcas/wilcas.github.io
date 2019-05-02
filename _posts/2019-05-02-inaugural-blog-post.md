@@ -130,8 +130,4 @@ P.S. Here's the CSS code I wasted 15 minutes of my life scraping together just t
 </style>
 ~~~
 
-~~~python
-def function():
-  print("hi")
-~~~
-[^1]: I had help from *[quackit.com?](https://www.quackit.com/css/codes/marquees/))*
+[^1]: I had help from *[quackit.com?](https://www.quackit.com/css/codes/marquees/)*
