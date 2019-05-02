@@ -1,3 +1,10 @@
 title: [The Blog of Will Casazza]
-logo: "logo.jpg"
-theme: jekyll-theme-minimal
+permalink: /blog/:year/:month/:day/:title
+incremental: true
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
