@@ -6,6 +6,11 @@ title: The Blog of William
   <ul class="posts">
 
     {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+      <h2> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> </h2>
+      <li> {{post.date | date_to_string}} </li>
+      <li>
+        {{ post.content | markdownify | strip_html | truncatewords: 75  }}
+        <a href="{{ post.url }}" title="continue reading"> continue reading </a>
+      </li>
     {% endfor %}
   </ul>
