@@ -170,7 +170,7 @@ OK
 ## In summation...
 Basically I use a bunch of basic tools that other people use to keep on top of their code and stay organized. Hope that the little insight into my \#basic ways will help you get started or at least get you thinking about something you didn't think to think about before I told you to think that thought.
 
-<h1><center><span style="color:magenta">Think on, thots.</span></center></h1>
+<h1><center><span style="color:magenta">#ThinkThatThought</span></center></h1>
 
 ...and thanks for reading,
 
