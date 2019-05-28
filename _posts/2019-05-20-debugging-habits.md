@@ -27,7 +27,7 @@ To be honest, it's really more of points 1 and 2 that heighten my coding compuls
 ## Debugging my anxiety
 Something I've come to accept over the past few years is that the more mistakes I make, the more I'll make mistakes that I won't learn from. Let's unpack that: I like to make sure that whenever I write something I assume that everything is going to fail, and that when I am even slightly confused, that's the point in my code I'm going to go back to in 2 weeks after I've already ran it, analyzed the results, and reported it to my PI.
 
-The main reason I like to use nice frameworks, make every action into a modular unit that I can move around in any which way and test individually, is that I know at some point I will fuck up. When that happens, I'll be able to tear my pretty little script to shreds and change it upu completely within a few minutes. Plus it always calms me down to know that I can read and understand what I've written ages ago, and even re-use it in a new program if need be.
+The main reason I like to use nice frameworks, make every action into a modular unit that I can move around in any which way and test individually, is that I know at some point I will fuck up. When that happens, I'll be able to tear my pretty little script to shreds and change it up completely within a few minutes. Plus it always calms me down to know that I can read and understand what I've written ages ago, and even re-use it in a new program if need be.
 
 ## Show me some code, homeboy
 Alright at this point I've talked a big game. Prepared to be underwhelmed by my coding practices for the next 5-10 minutes as I tell you how I organize my work into:
