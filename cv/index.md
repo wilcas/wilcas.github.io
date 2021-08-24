@@ -3,7 +3,9 @@ layout: default
 title: Curriculum Vitae
 ---
 
-# Education
+
+
+## Education
 
 **<span style="text-decoration:underline;">University of British Columbia, Fall 2017 - Present</span>**
 
@@ -14,7 +16,7 @@ Pursuing a PhD in Bioinformatics, Advised by Dr. Sara Mostafavi and Dr. Jessica 
 BS in Computational Biology, School of Computer Science & Mellon College of Science
 
 
-# University Employment
+## University Employment
 
 **<span style="text-decoration:underline;">Fall 2018 - Winter 2019 Course Assistant BIOF 540, University of British Columbia</span>**
 
@@ -26,7 +28,7 @@ BS in Computational Biology, School of Computer Science & Mellon College of Scie
 	Supervised by: Sara Mostafavi, Bioinformatics, CMMT (saram@stat.ubc.ca)
 
 
-# Research Experience
+## Research Experience
 
 **<span style="text-decoration:underline;">Spring 2020 - Present, Graduate Student Mostafavi and Dennis Lab</span>**
 
@@ -103,7 +105,7 @@ Advised by:
     Joel McManus, Dept. Biology (mcmanus@andrew.cmu.edu)
 
 
-# Publications and Contributions
+## Publications and Contributions
 
 
     Wright, Galen E. B., Nicholas S. Caron, Bernard Ng, Lorenzo Casal, **William Casazza**, Xiaohong Xu, Jolene Ooi, et al. “Gene Expression Profiles Complement the Analysis of Genomic Modifiers of the Clinical Onset of Huntington Disease.” Human Molecular Genetics. https://doi.org/10.1093/hmg/ddaa184.
@@ -127,7 +129,7 @@ Advised by:
     Open review article: Asthana, Ruchi et al. “IGEM RESEARCH ARTICLE: Development and Characterization of Fluorescent and Luminescent Biosensors for Estrogenic Activity.” PLOS Collections, 24 Aug. 2016, blogs.plos.org/collections/igem-research-article-001/.
 
 
-# Awards and Recognitions
+## Awards and Recognitions
 
 NSERC-CREATE Scholarship Award, 2017-2018
 
@@ -138,7 +140,7 @@ UBC Faculty of Science Graduate Award, 2017-2021
 HHMI Summer Undergraduate Research Grant, 2014
 
 
-# Industry Experience
+## Industry Experience
 
 **<span style="text-decoration:underline;">Scientist Intern at DNAnexus Inc., May 2017-August 2017</span>**
 
@@ -153,7 +155,7 @@ Supervised by:
         Yih-Chii Hwang (yihhwang@dnanexus.com)
 
 
-# Activities
+## Activities
 
 **Volunteering**
 
@@ -170,7 +172,7 @@ Vancouver Bioinformatics User Group (VanBUG) Organizing Committee, Fall 2018-Pre
 Trainee Omics Group (TOG) Study Group Lead, Spring 2019-Present
 
 
-# Research Interests
+## Research Interests
 
 Integration of Multi-omic Data 
 
@@ -183,7 +185,7 @@ Sex-Specific Quantitative Trait Loci
 Causal Inference in Observational Data
 
 
-# References
+## References
 
 
     Dr. Sara Mostafavi , Room 3021, Centre for Molecular Medicine and Therapeutics, 950 West 28th Avenue, Vancouver, BC V5Z 4H4 Canada, 604-875-3802, saram@stat.ubc.ca
